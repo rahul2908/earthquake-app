@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="bbd17ae817e036203d6ecf2cc2cb546d1f436677">
+        sha1="6e22d30c98c2effa7be93816fd39d69ea785c26f">
         <dex dex="F:\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1b19de9294fde40df25e12e6c2d705e4d920d9e2\classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="11df3a06beffa574a1e237ef5d30c96ac27053ea">
+        sha1="49d661acb2e299a889402374368f652101dd0d14">
         <dex dex="F:\AndroidStudioProjects\ud843-QuakeReport-starting-point\ud843-QuakeReport-starting-point\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ca0580a1b11697b94b09b0573163710ec47be2cb\classes.dex" />
     </item>
     <item
